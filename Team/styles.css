@@ -1,0 +1,20 @@
+.row {
+  background-color: black;
+  margin: 0;
+}
+.card-title {
+  background-color: coral;
+  text-align-last: center;
+}
+.col-md-3 {
+  padding: 63px;
+}
+.filter {
+  text-align: center;
+  padding: 20px;
+  background-color: black;
+}
+.btn {
+  margin: 6px;
+  background-color: #ce6034;
+}
